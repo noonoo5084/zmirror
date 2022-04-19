@@ -76,7 +76,7 @@ Together with the program, provided several (almost) out-of-box configs
 ### Instagram镜像  
   * 所有功能完整可用, 包括视频  
 
-### Youtube镜像
+### 镜像
   * 支持PC站/手机  (两者需要以不同的域名部署, 详见配置)  
   * 视频播放、高清支持  
   * 登陆支持、字幕支持  
