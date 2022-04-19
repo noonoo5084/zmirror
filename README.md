@@ -10,7 +10,7 @@ an http reverse proxy designed to automatically and completely mirror a website 
 一个Python反向HTTP代理程序, 用于快速、简单地创建别的网站的镜像, 自带本地文件缓存、CDN支持  
 比如国内可以访问的Google镜像/中文维基镜像  
 
-自带了几个配置文件: 比如 Google镜像(含学术/其他/中文维基) twitter镜像 Youtube镜像 instagram镜像 Facebook镜像  
+自带了几个配置文件: 比如 Google镜像(含学术/其他/中文维基) twitter镜像 镜像 instagram镜像 Facebook镜像  
 完整列表请看[zmirror自带镜像配置文件](more_configs/readme.md)  
 
 **请在遵守当地相关法律法规的前提下使用本项目**  
@@ -32,11 +32,11 @@ an http reverse proxy designed to automatically and completely mirror a website 
 * **中文维基**  
     * *(PC & Mobile)*  https://g.zmirrordemo.com/wiki  
 
-* **Youtube**  
+* ****  
     * *PC Only*  https://ytb-pc.zmirrordemo.com  
-    　　Youtube访问需要密码, 请解密此串得到密码`WmhlamlhbmdVbml2ZXJzaXR5` 如果您无法解密, 很抱歉Youtube镜像不对您开放  
+    　　访问需要密码, 请解密此串得到密码`WmhlamlhbmdVbml2ZXJzaXR5` 如果您无法解密, 很抱歉Yube镜像不对您开放  
     * *Mobile Only* <del> https://ytb-mobile.zmirrordemo.com </del> 暂不开放  
-    　　Youtube Mobile 不支持iOS
+    　　Yoube Mobile 不支持iOS
 * **Twitter**
     * *PC Only*  https://t-pc.zmirrordemo.com  
     * *Mobile Only*  https://t-mobile.zmirrordemo.com
